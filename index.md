@@ -8,3 +8,6 @@ Lucas Berry typed this
 ``` python
 hello_world = "Hello World"
 ```
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
